@@ -17,8 +17,8 @@ https://draco-arts.itch.io/connect-metamask-webgl
 
 ## Authors
 
-- [@DracoArts](https://github.com/orgs/DracoArts)
-
+- [@MirHamzaHasan](https://github.com/MirHamzaHasan)
+- [@WebSite](https://mirhamzahasan.com)
  - [@AzharWaheed](https://github.com/AzharKhemta)
 
 ## Documentation
@@ -27,7 +27,7 @@ https://draco-arts.itch.io/connect-metamask-webgl
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mir-hamza-hasan/posts/?feedView=all/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirhamzahasan/)
 
 
 ## Tech Stack
