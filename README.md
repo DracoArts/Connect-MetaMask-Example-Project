@@ -8,7 +8,7 @@ This project integrates blockchain safety features with MetaMask connectivity wi
 
 
 ## Image
-![Logo](https://dracoarts-logo.s3.eu-north-1.amazonaws.com/Referance.png)
+![Logo](https://github.com/AzharKhemta/DemoClient/blob/main/ConnectMetaMask%202.gif?raw=true)
 
 ## Demo
 
