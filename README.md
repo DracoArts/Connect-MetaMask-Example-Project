@@ -8,7 +8,7 @@ This project integrates blockchain safety features with MetaMask connectivity wi
 
 
 ## Image
-![Logo](https://github.com/AzharKhemta/DemoClient/blob/main/ConnectMetaMask%202.gif?raw=true)
+![Logo](https://raw.githubusercontent.com/AzharKhemta/DemoClient/refs/heads/main/ConnectMetaMask%202.gif)
 
 ## Demo
 
@@ -19,7 +19,7 @@ https://draco-arts.itch.io/connect-metamask-webgl
 
 - [@MirHamzaHasan](https://github.com/MirHamzaHasan)
 - [@WebSite](https://mirhamzahasan.com)
- - [@AzharWaheed](https://github.com/AzharKhemta)
+
 
 ## Documentation
 
